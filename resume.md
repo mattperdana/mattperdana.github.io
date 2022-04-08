@@ -30,6 +30,7 @@ http://www.linkedin.com/in/matthewwicaksono
 ## Shoreline Community College (Shoreline, Washington)
 
 [Shoreline Community College](https://www.shoreline.edu/) 
+
 **Association in Arts - AA, Informatics (2017-2020)**
 
 - Business Management Simulation 2018
@@ -37,6 +38,7 @@ http://www.linkedin.com/in/matthewwicaksono
 
 ## University of Washington (Seattle, Washington)
 [University of Washington](https://geography.washington.edu/)
+
 **Bachelor of Arts - Geography (2020-2022)**
 
 - Dean's List 2020
